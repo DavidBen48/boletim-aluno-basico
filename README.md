@@ -33,4 +33,4 @@ Foram usados 3 arquivos:
   ✅ Uso de Bibliotecas – Aplicação do tabulate para formatar a saída de dados.
 
 A seguir, exemplo do que acontece quando roda o código, do inicio ao fim, super simples:
-![Print do CMD](./img/image.png)
+![](./img/image.png)
