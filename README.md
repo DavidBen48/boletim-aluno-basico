@@ -27,9 +27,13 @@ Foram usados 3 arquivos:
 
 <h3> Habilidades aplicadas </h3>
   ✅ Resolução de Problemas – Estruturar um fluxo lógico para coletar e validar notas.
+  
   ✅ Organização e Modularização – Separação do código em funções e módulos reutilizáveis.
+  
   ✅ Tratamento de Erros – Uso de try/except para evitar que o programa quebre com entradas inválidas.
+  
   ✅ Uso de Estruturas de Dados – Manipulação de listas para armazenar e processar notas.
+  
   ✅ Uso de Bibliotecas – Aplicação do tabulate para formatar a saída de dados.
 
 A seguir, exemplo do que acontece quando roda o código, do inicio ao fim, super simples:
