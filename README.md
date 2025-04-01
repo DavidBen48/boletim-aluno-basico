@@ -1,4 +1,4 @@
-=== SISTEMA DE BOLETIM DE ALUNO - BÁSICO === 
+<h1> === SISTEMA DE BOLETIM DE ALUNO - BÁSICO === </h1> 
 
 Foram usados 3 arquivos:
   1) main.py -> responsável pela conexão entre o sistema e o usuário, que irá informar suas notas de cada bimestre (ao todo, quatro) para esperar um retorno sobre sua situação. Pontos negativos: não recebe o nome da matéria, mas é apenas para averiguar sua situação. O usuário informa as notas e o sistema calcula a média e sua situação; O sistema encerra assim que tudo ocorre conforme o esperado.
@@ -10,7 +10,7 @@ Foram usados 3 arquivos:
     - Se a média ficar entre 6 e 7, retornará "RECUPERAÇÃO";
     - Se a média ficar abaixo de 6, retornará "REPROVADO".
 
-<h5> Matérias utilizadas no projeto </h5>
+<h3> Matérias utilizadas no projeto </h3>
   - Lógica de Programação – Estruturas condicionais, laços de repetição e manipulação de dados.
 
   - Funções e Módulos – Criação e importação de módulos (mediaDoAluno, status).
@@ -25,7 +25,7 @@ Foram usados 3 arquivos:
 
   - Bibliotecas Externas – Uso da biblioteca tabulate para formatação de tabelas.
 
-- Habilidades aplicadas
+<h3> Habilidades aplicadas </h3>
   ✅ Resolução de Problemas – Estruturar um fluxo lógico para coletar e validar notas.
   ✅ Organização e Modularização – Separação do código em funções e módulos reutilizáveis.
   ✅ Tratamento de Erros – Uso de try/except para evitar que o programa quebre com entradas inválidas.
